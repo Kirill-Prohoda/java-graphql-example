@@ -1,0 +1,7 @@
+type Base {
+  value: String
+}
+
+input BaseInput {
+  value: String
+}

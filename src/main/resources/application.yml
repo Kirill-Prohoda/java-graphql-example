@@ -1,0 +1,14 @@
+server:
+  port: 9004
+
+spring:
+  graphql:
+    graphiql:
+      enabled: true
+
+# graphql.servlet.mapping=/graphql
+# graphql.servlet.enabled=true
+
+# graphiql.enabled=true
+# graphiql.endpoint=/graphql
+# graphiql.mapping=graphiql

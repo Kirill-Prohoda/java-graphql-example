@@ -1,0 +1,5 @@
+mutation changeTest($base: BaseInput) {
+  changeTest(base: $base) {
+    value: String
+  }
+}
